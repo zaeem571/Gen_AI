@@ -1,0 +1,18 @@
+# Environment variables (API keys - never commit these!)
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# HuggingFace local model cache
+**/cache/
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# VS Code
+.vscode/
